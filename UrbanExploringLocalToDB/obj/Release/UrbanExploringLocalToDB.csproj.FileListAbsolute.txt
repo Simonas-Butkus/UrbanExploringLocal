@@ -1,0 +1,6 @@
+D:\Programming\C#\UrbanExploringLocalToDB\UrbanExploringLocalToDB\bin\Release\UrbanExploringLocalToDB.exe.config
+D:\Programming\C#\UrbanExploringLocalToDB\UrbanExploringLocalToDB\bin\Release\UrbanExploringLocalToDB.exe
+D:\Programming\C#\UrbanExploringLocalToDB\UrbanExploringLocalToDB\bin\Release\UrbanExploringLocalToDB.pdb
+D:\Programming\C#\UrbanExploringLocalToDB\UrbanExploringLocalToDB\obj\Release\UrbanExploringLocalToDB.csproj.CoreCompileInputs.cache
+D:\Programming\C#\UrbanExploringLocalToDB\UrbanExploringLocalToDB\obj\Release\UrbanExploringLocalToDB.exe
+D:\Programming\C#\UrbanExploringLocalToDB\UrbanExploringLocalToDB\obj\Release\UrbanExploringLocalToDB.pdb
